@@ -66,12 +66,15 @@ Dessa forma, o modelo será treinado nos **dados de treino** e então será test
 O erro é uma forma de medir quão bem um modelo performou.
 
 ### Viés e Variância
-Após o treinamento, um modelo pode apresentar um grande **viés**. Isso significa que ele consegue generalizar bem novos dados. 
+O trade-off Viés e Variância descreve a relação entre a complexidade de um modelo, o erro de suas predições e quão bem isso ele é capaz de generalizar.
 
-De forma contrária, o modelo também pode apresentar grande **variância** (e baixo viés). Nesse caso, ele se adapta bem 
-aos dados de treinamento mas não possui a flexibilidade necessária para generalizar em dados de teste.
+Um modelo pode apresentar um grande **viés** e isso significa que há uma baixa variância.  
+O alto viés indica que o modelo não consegue aprender as peculiaridades do Dataset.
 
-O fenômeno de alta variância indica que o modelo **_overfittou_** (do inglês, _overfitting_) e pode ser visualizado na curva azul da imagem abaixo.
+De forma contrária, o modelo também pode apresentar grande **variância** e um baixo viés. 
+A alta variância indica que o modelo pode aprender muito bem os detalhes do Dataset.
+
+No primeiro caso dizemos que o modelo há facilidade em ocorrer _underfitting_. Já no segundo há _overfitting_ (azul).
 
 ![overfitting](https://github.com/icmc-data/ml-study-group/assets/46361092/217c43c6-a640-4a51-9f6d-6c99e9c8b1b1)
 
