@@ -18,7 +18,7 @@ As aulas de [Patrick Winston MIT IA](https://www.youtube.com/watch?v=TjZBTDzGeGg
 
 ## Tópicos (decidiremos em encontro)
 ### Introdução
-- Introdução a Machine Learning, Validação Cruzada, Viés e Variância
+- Introdução a Machine Learning, Jargões de ML
 ### Fundamentos
 - Matriz de Confusão, Sensibilidade e Especificidade, AUC e ROC
 - Entropia, Informação Mútua (teoria da informação), K-Vizinhos Próximos
