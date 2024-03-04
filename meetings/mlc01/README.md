@@ -38,9 +38,18 @@ desde a retirada dos dados até a visualização. De forma simplificada, essas t
 Ciência de Dados.
 
 ## Fundamentos de ML
-### Dataset
+### Conjunto de Dados
 **Dataset** é o termo em inglês para conjunto de dados. Esses são os dados completos que estaremos utilizando
 para treinar, testar e validar um modelo.
+
+### Características (Features)
+Features ou características são as expressões dos dados, valores numéricos vetorizados que melhor representam cada conjunto de treinamento.
+
+![iris](https://github.com/icmc-data/ml-study-group/assets/46361092/d5ad0a30-8602-43ea-b37a-488fc9b706db)
+
+No Dataset Iris, as características foram extraídas com antecedência: tamanho das sépalas e das pétalas. Cada um desses dados é rotulado com a flor correspondente: Iris Setosa, Iris Virginica e Iris Versicolor.
+
+Vamos ver detalhes sobre a extração de características mais a fundo ao longo do grupo de estudos, então não se preocupem.
 
 ### Treino e Teste
 Quando treinamos um modelo de ML, esperamos que ao apresentar novos dados, ele possua a capacidade de generalizar.
