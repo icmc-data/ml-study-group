@@ -1,5 +1,5 @@
 # Introdução a Machine Learning
-### [Slides](mlc01.ipynb)
+### [Notebook](mlc01.ipynb)
 ### Vítor Fróis, Miller Anacleto e Gabriel Merlin
 ## Introdução
 ### Uma breve história
