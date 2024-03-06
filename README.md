@@ -25,7 +25,6 @@ Este [repositório](https://github.com/zotroneneis/machine_learning_basics) cont
 - Entropia, Informação Mútua (teoria da informação), K-Vizinhos Próximos
 ### Aprendizado Supervisionado
 - Regressão 1: Regressão Linear e Logística
-- Regressão 2: Ridge e Lasso
 - Árvores 1: Árvores de Decisão, Random Forests
 - Redes Neurais 1: MLP, Backpropagation
 - Máquinas de Suporte Vetorial
@@ -34,8 +33,9 @@ Este [repositório](https://github.com/zotroneneis/machine_learning_basics) cont
 - Principal Component Analysis
 
 ### Cesto de Conteúdos Extras
-- Redes Neurais 2: Redes Neurais Profundas e Principais Ideias
+- Regressão 2: Ridge e Lasso
 - Árvores 2: Bagging, Boosting
+- Redes Neurais 2: Redes Neurais Profundas e Principais Ideias
 - Opiniões de vocês!!
 
 
