@@ -9,6 +9,7 @@ Por favor não usem o GPT para escrever os resumos! É uma ótima ferramenta par
 
 
 ## Lista de Encontros
+[Lista de Presença](https://docs.google.com/spreadsheets/d/1RFlnmhCNK8sZDEaeh0Mpsr8sJ8VKD_Kr6ZAW2Ik_6yw/edit?usp=sharing) 
 | Data | Tópico | Pessoas |
 |------|------|------|
 | 06/03 | [Introdução a Machine Learning](meetings/mlc01/README.md) | Fróis, Miller, Merlin |
