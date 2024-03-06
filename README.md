@@ -34,6 +34,7 @@ Este [repositório](https://github.com/zotroneneis/machine_learning_basics) cont
 
 ### Cesto de Conteúdos Extras
 - Regressão 2: Ridge e Lasso
+- Regressão 3: Regressão Linear Bayesiana
 - Árvores 2: Bagging, Boosting
 - Redes Neurais 2: Redes Neurais Profundas e Principais Ideias
 - Otimização: Stochastic Gradient Descent
