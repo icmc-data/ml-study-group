@@ -36,6 +36,7 @@ Este [repositório](https://github.com/zotroneneis/machine_learning_basics) cont
 - Regressão 2: Ridge e Lasso
 - Árvores 2: Bagging, Boosting
 - Redes Neurais 2: Redes Neurais Profundas e Principais Ideias
+- Otimização: Stochastic Gradient Descent
 - Opiniões de vocês!!
 
 
