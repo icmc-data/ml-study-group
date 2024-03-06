@@ -27,12 +27,15 @@ Este [repositório](https://github.com/zotroneneis/machine_learning_basics) cont
 - Regressão 1: Regressão Linear e Logística
 - Regressão 2: Ridge e Lasso
 - Árvores 1: Árvores de Decisão, Random Forests
-- Árvores 2: Bagging, Boosting
 - Redes Neurais 1: MLP, Backpropagation
-- Redes Neurais 2: Redes Neurais Profundas e Principais Ideias
 - Máquinas de Suporte Vetorial
 ### Aprendizado Não-Supervisionado
 - Agrupamento: Hierárquico, K-Médias
 - Principal Component Analysis
+
+### Cesto de Conteúdos Extras
+- Redes Neurais 2: Redes Neurais Profundas e Principais Ideias
+- Árvores 2: Bagging, Boosting
+- Opiniões de vocês!!
 
 
