@@ -13,8 +13,8 @@ Por favor não usem o GPT para escrever os resumos! É uma ótima ferramenta par
 | Data | Tópico | Pessoas |
 |------|------|------|
 | 06/03 | [Introdução a Machine Learning](meetings/mlc01/README.md) | Fróis, Miller, Merlin |
-| 13/03 | [Matriz de Confusão, Sensibilidade e Especificidade, AUC e ROC](meetings/mlc01/README.md) | Ana, Olavo |
-| 20/03 | [Regressão Linear 1]() | Fábio, Gabriela |
+| 13/03 | [Matriz de Confusão, Sensibilidade e Especificidade, AUC e ROC](meetings/mlc02/README.md) | Ana, Olavo |
+| 20/03 | [Regressão Linear 1](meetings/mlc03/README.md) | Fábio, Gabriela |
 | ??/?? | Redes Neurais 1 | Lázaro, Yusuke |
 
 ## Referências
