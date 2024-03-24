@@ -1,10 +1,6 @@
-# Métricas para avaliar Modelos de Classificação
+# Matriz de Confusão, Métricas de Avaliação, Curva ROC e AUC
 ### Ana Chaves e Olavo Morais
 ### [Slides](slides.pdf)
-
-
-# Matriz de Confusão, Métricas de Avaliação, Curva ROC e AUC
-
 ## Acurácia
 
 A acurácia é a métrica mais simples para avaliar classificadores: corresponde a % de acertos que o modelo teve ao se considerar todas as previsões que ele fez
