@@ -1,8 +1,6 @@
-# Apresentação Regressão
-
-**Fabio Cavaleti**
-
-**Gabriela Barros**
+# Regressão 1
+### [Notebook](notebook.ipynb)
+### Fábio e Gabriela
 
 ## Introdução
 
