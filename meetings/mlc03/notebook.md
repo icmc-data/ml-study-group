@@ -1,6 +1,6 @@
 # Regressão 1
 ### [Notebook](notebook.ipynb)
-### Fábio e Gabriela
+### Fábio Cavaleti e Gabriela Barros
 
 ## Introdução
 
