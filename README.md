@@ -15,7 +15,8 @@ Por favor não usem o GPT para escrever os resumos! É uma ótima ferramenta par
 | 06/03 | [Introdução a Machine Learning](meetings/mlc01/README.md) | Fróis, Miller, Merlin |
 | 13/03 | [Matriz de Confusão, Sensibilidade e Especificidade, AUC e ROC](meetings/mlc02/README.md) | Ana, Olavo |
 | 20/03 | [Regressão Linear 1](meetings/mlc03/README.md) | Fábio, Gabriela |
-| ??/?? | Redes Neurais 1 | Lázaro, Yusuke |
+| 03/04 | [Árvores 1](meetings/mlc04/README.md) | Gui, Gabriel |
+| 10/04 | [Redes Neurais 1](meetings/mlc05/README.md) | Lázaro, Yusuke |
 
 ## Referências
 As aulas de [Patrick Winston MIT IA](https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) apresentam um panorama geral de alguns tópicos que discutiremos no grupo de estudos, com uma boa didática. Nem todos tópicos são abordados no curso de Winston, então podemos estudar com maior detalhes em [An Introduction to Statistical Learning (ISL)](https://www.statlearning.com/), que apresenta as principais ideias, conceitos matemáticos e códigos de ML. Uma ótima alternativa ao ISL é o livro [Probabilistic Machine Learning (PML)](https://probml.github.io/pml-book/book1.html). Se os conceitos apresentados no livro parecerem muito complexos (e são!), o canal [Statquest](https://www.youtube.com/@statquest) no Youtube tem vídeos destrichando temas complexos de maneira muito simples. Por fim, o canal [3Blue1Brown](https://www.youtube.com/@3blue1brown) tem bons vídeos para intuição em fundamentos de ML, além de ótima visualização para Redes Neurais. 
